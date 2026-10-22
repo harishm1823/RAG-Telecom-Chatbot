@@ -2,11 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) customer care chatbot for telecom support. It answers questions about mobile connectivity, billing, SIM issues, and roaming by retrieving relevant context from three knowledge sources and generating responses with GPT-OSS 120B via Groq.
 
-[
-
-![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
-
-](https://rag-telecom-support-chatbot.streamlit.app)
+**Live demo:** [rag-telecom-support-chatbot.streamlit.app](https://rag-telecom-support-chatbot.streamlit.app)
 
 ## Architecture
 
